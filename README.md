@@ -16,3 +16,6 @@
 `R`:重設
 `H`:顯示/隱藏幫助畫面  
 還有其他彩蛋自己找囉
+
+## 更多資訊
+https://incognitas.net/works/java-game-a02/
